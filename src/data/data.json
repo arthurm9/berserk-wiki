@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Guts",
+        "img": "https://th.bing.com/th?id=OIP.q1n3IdQLddOjoZ798lTTvAAAAA&w=400&h=417&c=7&qlt=80&o=6&pid=MultiSMRSV2Source"
+    },
+    {
+        "id": 2,
+        "name": "Griffith",
+        "img": "https://th.bing.com/th/id/R.3150489a6d7cb47669a7f82855b089a8?rik=ll58jckLw6bKdA&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 3,
+        "name": "Caska",
+        "img": "https://th.bing.com/th/id/R.a4e7fcc1276b1ae87a2fa61fc1d04863?rik=bglzy33epEk7Jw&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 4,
+        "name": "Void",
+        "img": "https://pm1.narvii.com/6640/689be040a2198af1ae65c33c686374cdbc9dadfc_hq.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Skull Knight",
+        "img": "https://static.displate.com/857x1200/displate/2021-11-01/07a40ceadbdea465e9435a5c346ef9f8_a4948a29e76571be43ad2afaa22ba551.jpg"
+    },{
+        "id": 6,
+        "name": "Schierke",
+        "img": "https://th.bing.com/th/id/OIP.9z8pDL9GKF3nOWf-rMLiwQHaKe?pid=ImgDet&rs=1"
+    },
+    {
+        "id": 7,
+        "name": "Serpico",
+        "img": "https://i.pinimg.com/originals/80/26/27/802627ad12bf88826cf4c45516d5f9c9.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Farnese",
+        "img": "https://th.bing.com/th/id/OIP.R_SYTvFeKNKl6OtLXvzUZgHaK4?pid=ImgDet&rs=1"
+    },
+    {
+        "id": 9,
+        "name": "Puck",
+        "img": "https://www.anime-planet.com/images/characters/puck-berserk-2219.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Isidro",
+        "img": "https://th.bing.com/th/id/OIP.dEAKKm-bXEK06n63l1UlVwHaNK?pid=ImgDet&rs=1"
+    }
+]
